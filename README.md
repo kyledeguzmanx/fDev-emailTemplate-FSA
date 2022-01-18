@@ -1,4 +1,5 @@
 # INTRODUCTION
+This project is an HTML document is an e-mail template.
 
 ## SCREENSHOTS
 ![Screen1](https://github.com/kyledeguzmanx/fDev-emailTemplate-FSA/blob/master/img/Screenshot1.png)
