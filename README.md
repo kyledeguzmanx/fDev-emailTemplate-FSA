@@ -1,6 +1,7 @@
 # INTRODUCTION
 This project is an HTML document is an e-mail template.
 
+View Here: https://kyledeguzmanx.github.io/fDev-emailTemplate-FSA/ 
 ## NOTES
 G-Mail does not accurately render HTML documents. I had to convert CSS stylings to inline stylings. In the future, I must convert my layout to use a table.
 
