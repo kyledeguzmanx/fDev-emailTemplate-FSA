@@ -1,6 +1,9 @@
 # INTRODUCTION
 This project is an HTML document is an e-mail template.
 
+## NOTES
+G-Mail does not accurately render HTML documents. I had to convert CSS stylings to inline stylings. In the future, I must convert my layout to use a table.
+
 ## SCREENSHOTS
 ![Screen1](https://github.com/kyledeguzmanx/fDev-emailTemplate-FSA/blob/master/img/Screenshot1.png)
 ![Screen2](https://github.com/kyledeguzmanx/fDev-emailTemplate-FSA/blob/master/img/Screenshot2.png)
